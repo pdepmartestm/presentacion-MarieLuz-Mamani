@@ -6,11 +6,18 @@ ___
 Vivo en La Matanza, así que me toma un viaje si 
 tengo que ir a la sede en Medrano. Tengo 4 hermanos, así que vivo en una familia numerosa.
 Incluso así tengo 2 mascotas, ambas perras,  Lula y Jazmín.
-Me gusta ver películas de acción o terror, entre ellas las que más me gustó fueron las de Marvel
+Me gusta ver películas de acción o terror, entre ellas las que más me gustó fueron las de **Marvel**.
 Salir a ver estrenos con mis amigos/as, comer o juntarnos para charlar en el parque son algunas de las cosas que hago en mis salidas. 
 
-Con lo que respecta a programación, en la secundaria aprendí algo de c++, c#, java y Sql. Aunque con lo que respecta a Sql solo fueron los comandos básicos de AMB. 
-También aprendí C en la cursada de Algoritmos. Pará aclarar con lo que respecta a la programación orientada a objetos(OOP) la aprendí usando el lenguaje de java, así que tengo algunos de los conceptos. 
+   
+Con lo que respecta a programación, en la secundaria aprendí algo de:
+- HTML 
+- C 
+- C++
+- C#
+-  java 
+- Sql  (Aunque solo fueron los comando basicos de AMB). 
+Para aclarar con lo que respecta a la programación orientada a objetos(OOP) la aprendí usando el lenguaje de java en la secundaria, así que tengo algunos de los conceptos. 
 Aunque actualmente no estoy trabajando,estoy buscando una pasantia o empleo part-time para adquirir un poco de experiencia.
 
 
