@@ -16,8 +16,11 @@ Con lo que respecta a programación, en la secundaria aprendí algo de:
 - C++
 - C#
 -  java 
-- Sql  (Aunque solo fueron los comando basicos de AMB). 
+- Sql  (Aunque solo fueron los comando basicos de AMB).
+
+
 Para aclarar con lo que respecta a la programación orientada a objetos(OOP) la aprendí usando el lenguaje de java en la secundaria, así que tengo algunos de los conceptos. 
+
 Aunque actualmente no estoy trabajando,estoy buscando una pasantia o empleo part-time para adquirir un poco de experiencia.
 
 
